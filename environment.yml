@@ -7,4 +7,4 @@ dependencies:
     - ipycanvas
     - matplotlib
     - numpy
-
+    - scipy
