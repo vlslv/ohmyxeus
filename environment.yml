@@ -4,7 +4,7 @@ channels:
   - https://repo.prefix.dev/conda-forge
 dependencies:
     - xeus-python
-    - ipycanvas
+    - ipympl
     - matplotlib
     - numpy==2.0
     - scipy
